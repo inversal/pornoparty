@@ -9,5 +9,5 @@
 
 ====
 
-Modelos de informe para reportar un bug (Chui)
+Modelos de informe para reportar un bug (Chui)  
 [informe 1 de google](https://sites.google.com/site/bughunteruniversity/best-reports/account-recovery-xss)
